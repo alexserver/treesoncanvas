@@ -8,4 +8,3 @@ I've been playing with settings values to check how the behavior is affected.
 
 It works with [jquery 1.3.2](https://code.google.com/p/jqueryjs/downloads/detail?name=jquery-1.3.2.js&can=2&q=) and [modernizr 1.0] (http://modernizr.com/)
 
-
